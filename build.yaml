@@ -1,4 +1,4 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: ANIIINA2
+    shield: ANIIINA

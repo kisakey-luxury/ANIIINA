@@ -1,6 +1,0 @@
-if SHIELD_ANIIINA
-
-config ZMK_KEYBOARD_NAME
-    default "ANIIINA"
-
-endif

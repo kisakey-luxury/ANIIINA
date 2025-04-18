@@ -1,0 +1,2 @@
+config SHIELD_ANIIINA
+    def_bool $(shields_list_contains,ANIIINA)

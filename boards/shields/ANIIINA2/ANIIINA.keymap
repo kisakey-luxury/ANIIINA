@@ -8,7 +8,7 @@
 
         default_layer {
             bindings = <
-                &sleep      &kp K_VOL_UP    &kp L
+                &kp K_SLEEP &kp K_VOL_UP    &kp L
                 &kp C_RW    &kp K_PP        &kp C_FF
                 &kp I       &kp K_VOL_DN    &kp R
                 &kp G       &kp J           &kp H

@@ -8,10 +8,10 @@
 
         default_layer {
             bindings = <
-                &kp K_SLEEP &kp K_VOL_UP    &kp L
-                &kp C_RW    &kp K_PP        &kp C_FF
-                &kp I       &kp K_VOL_DN    &kp R
-                &kp G       &kp J           &kp H
+                &kp K_SLEEP     &kp UP      &kp L
+                &kp LEFT        &kp SPACE   &kp RIGHT
+                &kp I           &kp DOWN    &kp R
+                &kp G           &kp J       &kp H
             >;
         };
     };
